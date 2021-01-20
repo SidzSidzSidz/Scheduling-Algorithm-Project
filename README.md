@@ -13,3 +13,5 @@ The program will loop these inputs until the last process is reached.
 3. After entering the last input, the program will first run the Preemptive Scheduling, followed by the Non-Preemptive Scheduling.
  
 4. Both Scheduling will display the switching of process and Average Turnaround time respectively.
+
+Trying not to use Java object, or minimizing their uses
